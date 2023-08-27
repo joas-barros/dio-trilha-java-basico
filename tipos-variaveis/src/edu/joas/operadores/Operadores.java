@@ -1,3 +1,4 @@
+package edu.joas.operadores;
 public class Operadores {
     public static void main(String[] args) {
         // Concatenação de Strings
