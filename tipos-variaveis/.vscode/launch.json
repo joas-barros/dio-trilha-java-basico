@@ -1,0 +1,90 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "edu.joas.documentacao.Comentarios",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.joas.metodos.Usuario",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "ComparacaoAvancada",
+            "request": "launch",
+            "mainClass": "edu.joas.operadores.ComparacaoAvancada",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "Logicos",
+            "request": "launch",
+            "mainClass": "edu.joas.operadores.Logicos",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.joas.operadores.Operadores",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresUnarios",
+            "request": "launch",
+            "mainClass": "edu.joas.operadores.OperadoresUnarios",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "Relacional",
+            "request": "launch",
+            "mainClass": "edu.joas.operadores.Relacional",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "Ternario",
+            "request": "launch",
+            "mainClass": "edu.joas.operadores.Ternario",
+            "projectName": "tipos-variaveis_1f279eeb"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.joas.terminal.AboutMe",
+            "projectName": "tipos-variaveis_1f279eeb",
+            "args": [
+                "JOAS",
+                "GABRIEL",
+                "22",
+                "1.55"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.joas.terminal.MinhaClasse",
+            "projectName": "tipos-variaveis_1f279eeb"
+        }
+    ]
+}
