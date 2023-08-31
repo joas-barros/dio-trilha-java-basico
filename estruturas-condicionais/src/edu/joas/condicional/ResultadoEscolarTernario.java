@@ -1,5 +1,7 @@
 package edu.joas.condicional;
 
+// Condicional Ternario
+
 public class ResultadoEscolarTernario {
     public static void main(String[] args) {
         int nota = 5;
