@@ -6,7 +6,9 @@ public class SistemaIbge {
             System.out.println(estado.getSigla() + " - " + estado.getNome());
         }
 
-        EstadoBrasileiro estado = EstadoBrasileiro.valueOf("PIAUI");
+        EstadoBrasileiro estado = EstadoBrasileiro.valueOf("RIO_GRANDE_DO_NORTE");
         System.out.println("Estado: " + estado.getNome());
+        System.out.println("Sigla: " + estado.getSigla());
+        System.out.println("IBGE: " + estado.getIbge());
     }
 }
